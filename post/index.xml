@@ -5,12 +5,29 @@
     <link>https://danil28102004.github.io/post/</link>
       <atom:link href="https://danil28102004.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danil28102004.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://danil28102004.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://danil28102004.github.io/post/03/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://danil28102004.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-апдейт-по-неделе-на-бизнес-информатике&#34;&gt;📍 Апдейт по неделе на Бизнес-информатике&lt;/h1&gt;
+&lt;p&gt;Неделя выдалась бодрой 💼💻&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;На практике по базам данных разбирались с SQL-запросами — вроде бы SELECT уже почти на автомате, но JOIN всё ещё вызывает флешбеки 😅&lt;/li&gt;
+&lt;li&gt;Финансовый менеджмент удивил задачами по инвестициям — не думал, что это реально интересно.&lt;/li&gt;
+&lt;li&gt;Подготовка к первой курсовой понемногу набирает обороты — обсуждали темы, формировали группы.&lt;/li&gt;
+&lt;li&gt;Поймал себя на мысли, что Excel стал роднее, чем блокнот. Таблицы — наше всё 📊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом — хорошая неделя: и мозг поработал, и в расписании нашлось место для дыхания. Кто тоже в потоке — респект ✊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
